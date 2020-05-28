@@ -1,0 +1,1 @@
+"use strict";exports.themeLocation="./app/wp-content/themes/university-theme/",exports.urlToPreview="http://university.local";
